@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from datetime import datetime
 from tkinter import *
 from tkinter.filedialog import *
@@ -330,3 +331,6 @@ log_txt_fail.grid(column=2, row=3)
 
 
 root.mainloop()
+=======
+print("ПИЗДЕЦ")
+>>>>>>> 051a9ff8c4d2e1bfbd7e51f93089f04db67f5d02
